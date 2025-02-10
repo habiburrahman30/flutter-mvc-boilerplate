@@ -1,5 +1,5 @@
 import 'package:get/get.dart';
-import 'package:laundry_app/src/pages/splash_page.dart';
+import '/src/pages/splash_page.dart';
 
 class Routes {
   static const String splash = "/splash_page";
