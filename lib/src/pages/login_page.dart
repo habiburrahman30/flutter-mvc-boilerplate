@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
-import 'package:laundry_app/src/pages/main_page.dart';
+import '/src/pages/main_page.dart';
 
 import '../base/base.dart';
 import '../components/loading.dart';
