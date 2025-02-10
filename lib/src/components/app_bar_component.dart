@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:laundry_app/src/helpers/route.dart';
+import '/src/helpers/route.dart';
 
 import '../base/base.dart';
 import '../helpers/system_ui_overlay_style_helper.dart';
